@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Topographic Map Visualization</title>
+    <meta name="description" content="Interactive 3D topographic terrain visualization from Google Earth survey data">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Main 3D Visualization Canvas -->
+    <canvas id="terrain-canvas"></canvas>
+
+    <!-- Header -->
+    <header class="app-header">
+        <h1>Water Distribution System</h1>
+        <p class="subtitle">3D Topographic Analysis - York University</p>
+    </header>
+
+    <!-- Info Panel -->
+    <aside class="info-panel">
+        <h2>Terrain Data</h2>
+        <div class="info-grid">
+            <div class="info-item">
+                <span class="info-label">Survey Points</span>
+                <span class="info-value" id="point-count">312</span>
+            </div>
+            <div class="info-item">
+                <span class="info-label">Min Elevation</span>
+                <span class="info-value" id="min-elevation">49.27m</span>
+            </div>
+            <div class="info-item">
+                <span class="info-label">MaxElevation</span>
+                <span class="info-value" id="max-elevation">59.44m</span>
+            </div>
+            <div class="info-item">
+                <span class="info-label">Relief</span>
+                <span class="info-value" id="relief">10.17m</span>
+            </div>
+        </div>
+
+        <!-- Pipeline Alignment Stats -->
+        <div class="pipeline-stats">
+            <h3>Pipeline Alignment (A → B)</h3>
+            <div class="stat-row">
+                <span class="stat-label">Horizontal Distance:</span>
+                <span class="stat-value" id="pipeline-distance">421.3m</span>
+            </div>
+            <div class="stat-row">
+                <span class="stat-label">Elevation Gain:</span>
+                <span class="stat-value" id="elevation-gain">2.69m</span>
+            </div>
+            <div class="stat-row">
+                <span class="stat-label">Average Slope:</span>
+                <span class="stat-value" id="pipeline-slope">0.64%</span>
+            </div>
+        </div>
+
+        <!-- Elevation Legend -->
+        <div class="elevation-legend">
+            <h3>Elevation Scale</h3>
+            <div class="gradient-bar"></div>
+            <div class="legend-labels">
+                <span>49m</span>
+                <span>54m</span>
+                <span>59m</span>
+            </div>
+        </div>
+
+        <!-- Special Points -->
+        <div class="special-points">
+            <h3>Water Distribution Stations</h3>
+            <div class="point-marker tjoint">
+                <span class="marker-icon">📍</span>
+                <div class="marker-info">
+                    <strong>Station A - T-Joint</strong>
+                    <small>Elevation: 56.74m | Source</small>
+                </div>
+            </div>
+            <div class="point-marker reservoir">
+                <span class="marker-icon">💧</span>
+                <div class="marker-info">
+                    <strong>Station B - Reservoir</strong>
+                    <small>Elevation: 59.44m | Target (+12m)</small>
+                </div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Control Panel -->
+    <aside class="control-panel">
+        <h2>Controls</h2>
+
+        <!-- Camera Presets -->
+        <div class="control-group">
+            <h3>Camera View</h3>
+            <div class="button-group">
+                <button class="control-btn active" data-view="default">
+                    <span>🎯</span> Default
+                </button>
+                <button class="control-btn" data-view="top">
+                    <span>⬇️</span> Top
+                </button>
+                <button class="control-btn" data-view="north">
+                    <span>⬆️</span> North
+                </button>
+                <button class="control-btn" data-view="south">
+                    <span>⬇️</span> South
+                </button>
+            </div>
+        </div>
+
+        <!-- Visualization Options -->
+        <div class="control-group">
+            <h3>Display Options</h3>
+            <label class="checkbox-label">
+                <input type="checkbox" id="show-wireframe">
+                <span>Wireframe Overlay</span>
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" id="show-contours" checked>
+                <span>Contour Lines</span>
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" id="show-pipeline" checked>
+                <span>Pipeline Route</span>
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" id="show-markers" checked>
+                <span>Station Markers</span>
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" id="show-grid">
+                <span>Grid Helper</span>
+            </label>
+        </div>
+
+        <!-- Lighting -->
+        <div class="control-group">
+            <h3>Lighting</h3>
+            <label class="slider-label">
+                <span>Intensity</span>
+                <input type="range" id="light-intensity" min="0" max="2" step="0.1" value="1.2">
+                <span id="light-value">1.2</span>
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" id="rotate-light">
+                <span>Rotate Light</span>
+            </label>
+        </div>
+
+        <!-- Color Scheme -->
+        <div class="control-group">
+            <h3>Color Scheme</h3>
+            <select id="color-scheme" class="select-input">
+                <option value="terrain">Terrain (Default)</option>
+                <option value="rainbow">Rainbow</option>
+                <option value="grayscale">Grayscale</option>
+                <option value="heatmap">Heatmap</option>
+            </select>
+        </div>
+    </aside>
+
+    <!-- Instructions Overlay -->
+    <div class="instructions">
+        <p><strong>Controls:</strong> Left-click + drag to rotate | Scroll to zoom | Right-click + drag to pan</p>
+    </div>
+
+    <!-- Loading Screen -->
+    <div class="loading-screen" id="loading-screen">
+        <div class="loader"></div>
+        <p>Loading topographic data...</p>
+    </div>
+
+    <script type="module" src="app.js"></script>
+</body>
+
+</html>

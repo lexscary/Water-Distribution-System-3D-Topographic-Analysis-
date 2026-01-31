@@ -1,0 +1,5761 @@
+{
+  "metadata": {
+    "total_points": 717,
+    "survey_points": 715,
+    "station_points": 2,
+    "bounds": {
+      "northing": {
+        "min": 1144950.983,
+        "max": 1145461.483
+      },
+      "easting": {
+        "min": 3602784.925,
+        "max": 3603299.981
+      },
+      "elevation": {
+        "min": 48.768,
+        "max": 59.436
+      }
+    }
+  },
+  "points": [
+    {
+      "id": 1,
+      "northing": 1145461.483,
+      "easting": 3603092.893,
+      "elevation": 56.8344,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 2,
+      "northing": 1145450.054,
+      "easting": 3603081.829,
+      "elevation": 57.0308,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 3,
+      "northing": 1145437.452,
+      "easting": 3603069.649,
+      "elevation": 57.2913,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 4,
+      "northing": 1145424.818,
+      "easting": 3603057.428,
+      "elevation": 57.5439,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 5,
+      "northing": 1145415.986,
+      "easting": 3603048.884,
+      "elevation": 57.5707,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 6,
+      "northing": 1145407.337,
+      "easting": 3603040.519,
+      "elevation": 57.6456,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 7,
+      "northing": 1145394.139,
+      "easting": 3603026.324,
+      "elevation": 57.8582,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 8,
+      "northing": 1145386.635,
+      "easting": 3603016.708,
+      "elevation": 57.9966,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 9,
+      "northing": 1145379.698,
+      "easting": 3603006.469,
+      "elevation": 58.1129,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 10,
+      "northing": 1145373.294,
+      "easting": 3602995.459,
+      "elevation": 58.1684,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 11,
+      "northing": 1145367.201,
+      "easting": 3602982.973,
+      "elevation": 58.2029,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 12,
+      "northing": 1145361.803,
+      "easting": 3602969.291,
+      "elevation": 58.2351,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 13,
+      "northing": 1145358.351,
+      "easting": 3602958.288,
+      "elevation": 58.4097,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 14,
+      "northing": 1145453.854,
+      "easting": 3603100.78,
+      "elevation": 56.7456,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 15,
+      "northing": 1145442.215,
+      "easting": 3603089.522,
+      "elevation": 56.9761,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 16,
+      "northing": 1145429.961,
+      "easting": 3603077.669,
+      "elevation": 57.2315,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 17,
+      "northing": 1145417.28,
+      "easting": 3603065.403,
+      "elevation": 57.3737,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 18,
+      "northing": 1145408.234,
+      "easting": 3603056.653,
+      "elevation": 57.4533,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 19,
+      "northing": 1145399.708,
+      "easting": 3603048.406,
+      "elevation": 57.5814,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 20,
+      "northing": 1145386.203,
+      "easting": 3603033.937,
+      "elevation": 57.763,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 21,
+      "northing": 1145377.41,
+      "easting": 3603022.679,
+      "elevation": 57.8703,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 22,
+      "northing": 1145369.683,
+      "easting": 3603011.148,
+      "elevation": 57.9297,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 23,
+      "northing": 1145363.042,
+      "easting": 3602999.551,
+      "elevation": 57.9589,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 24,
+      "northing": 1145357.22,
+      "easting": 3602987.534,
+      "elevation": 57.9713,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 25,
+      "northing": 1145350.754,
+      "easting": 3602970.896,
+      "elevation": 58.0814,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 26,
+      "northing": 1145346.93,
+      "easting": 3602958.086,
+      "elevation": 58.3555,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 27,
+      "northing": 1145345.193,
+      "easting": 3602950.879,
+      "elevation": 58.5233,
+      "source": "topo_survey",
+      "type": "EP"
+    },
+    {
+      "id": 28,
+      "northing": 1145457.668,
+      "easting": 3603096.836,
+      "elevation": 56.7864,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 29,
+      "northing": 1145446.426,
+      "easting": 3603085.962,
+      "elevation": 56.9916,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 30,
+      "northing": 1145434.116,
+      "easting": 3603074.055,
+      "elevation": 57.2397,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 31,
+      "northing": 1145421.402,
+      "easting": 3603061.757,
+      "elevation": 57.4672,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 32,
+      "northing": 1145412.656,
+      "easting": 3603053.298,
+      "elevation": 57.4894,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 33,
+      "northing": 1145403.523,
+      "easting": 3603044.463,
+      "elevation": 57.6164,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 34,
+      "northing": 1145390.257,
+      "easting": 3603030.234,
+      "elevation": 57.8152,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 35,
+      "northing": 1145382.393,
+      "easting": 3603020.202,
+      "elevation": 57.9384,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 36,
+      "northing": 1145375.094,
+      "easting": 3603009.454,
+      "elevation": 58.0204,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 37,
+      "northing": 1145368.588,
+      "easting": 3602998.293,
+      "elevation": 58.0615,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 38,
+      "northing": 1145362.497,
+      "easting": 3602985.898,
+      "elevation": 58.0863,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 39,
+      "northing": 1145357.063,
+      "easting": 3602972.346,
+      "elevation": 58.1172,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 40,
+      "northing": 1145353.853,
+      "easting": 3602962.498,
+      "elevation": 58.293,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 41,
+      "northing": 1145351.773,
+      "easting": 3602954.884,
+      "elevation": 58.4473,
+      "source": "topo_survey",
+      "type": "CLRD"
+    },
+    {
+      "id": 42,
+      "northing": 1145452.583,
+      "easting": 3603102.094,
+      "elevation": 56.7343,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 43,
+      "northing": 1145440.898,
+      "easting": 3603090.792,
+      "elevation": 56.9653,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 44,
+      "northing": 1145428.806,
+      "easting": 3603079.096,
+      "elevation": 57.2215,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 45,
+      "northing": 1145415.829,
+      "easting": 3603066.544,
+      "elevation": 57.3402,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 46,
+      "northing": 1145406.987,
+      "easting": 3603057.991,
+      "elevation": 57.4434,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 47,
+      "northing": 1145398.437,
+      "easting": 3603049.721,
+      "elevation": 57.5675,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 48,
+      "northing": 1145384.788,
+      "easting": 3603035.096,
+      "elevation": 57.7449,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 49,
+      "northing": 1145375.828,
+      "easting": 3603023.612,
+      "elevation": 57.8242,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 50,
+      "northing": 1145368.16,
+      "easting": 3603012.162,
+      "elevation": 57.8872,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 51,
+      "northing": 1145361.444,
+      "easting": 3603000.441,
+      "elevation": 57.9235,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 52,
+      "northing": 1145355.51,
+      "easting": 3602988.242,
+      "elevation": 57.9323,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 53,
+      "northing": 1145348.934,
+      "easting": 3602971.219,
+      "elevation": 58.0429,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 54,
+      "northing": 1145345.452,
+      "easting": 3602959.649,
+      "elevation": 58.3038,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 55,
+      "northing": 1145343.079,
+      "easting": 3602949.761,
+      "elevation": 58.4485,
+      "source": "topo_survey",
+      "type": "ES"
+    },
+    {
+      "id": 56,
+      "northing": 1145451.862,
+      "easting": 3603102.67,
+      "elevation": 56.4313,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 57,
+      "northing": 1145440.197,
+      "easting": 3603091.387,
+      "elevation": 56.6617,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 58,
+      "northing": 1145428.024,
+      "easting": 3603079.611,
+      "elevation": 56.9199,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 59,
+      "northing": 1145415.233,
+      "easting": 3603067.239,
+      "elevation": 57.0354,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 60,
+      "northing": 1145406.299,
+      "easting": 3603058.598,
+      "elevation": 57.1393,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 61,
+      "northing": 1145397.801,
+      "easting": 3603050.378,
+      "elevation": 57.2628,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 62,
+      "northing": 1145384.169,
+      "easting": 3603035.781,
+      "elevation": 57.4393,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 63,
+      "northing": 1145375.116,
+      "easting": 3603024.187,
+      "elevation": 57.5197,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 64,
+      "northing": 1145367.395,
+      "easting": 3603012.663,
+      "elevation": 57.5825,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 65,
+      "northing": 1145360.746,
+      "easting": 3603001.077,
+      "elevation": 57.6185,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 66,
+      "northing": 1145354.66,
+      "easting": 3602988.528,
+      "elevation": 57.6279,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 67,
+      "northing": 1145348.296,
+      "easting": 3602972.189,
+      "elevation": 57.73,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 68,
+      "northing": 1145344.114,
+      "easting": 3602958.156,
+      "elevation": 58.022,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 69,
+      "northing": 1145342.112,
+      "easting": 3602949.607,
+      "elevation": 58.8452,
+      "source": "topo_survey",
+      "type": "BOTD"
+    },
+    {
+      "id": 70,
+      "northing": 1145451.311,
+      "easting": 3603103.409,
+      "elevation": 56.7231,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 71,
+      "northing": 1145439.617,
+      "easting": 3603092.029,
+      "elevation": 56.9496,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 72,
+      "northing": 1145427.396,
+      "easting": 3603080.245,
+      "elevation": 57.2172,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 73,
+      "northing": 1145414.649,
+      "easting": 3603067.84,
+      "elevation": 57.3148,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 74,
+      "northing": 1145405.672,
+      "easting": 3603059.227,
+      "elevation": 57.4357,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 75,
+      "northing": 1145397.194,
+      "easting": 3603051.006,
+      "elevation": 57.5539,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 76,
+      "northing": 1145383.621,
+      "easting": 3603036.415,
+      "elevation": 57.7158,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 77,
+      "northing": 1145374.589,
+      "easting": 3603024.769,
+      "elevation": 57.7764,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 78,
+      "northing": 1145366.966,
+      "easting": 3603013.278,
+      "elevation": 57.8119,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 79,
+      "northing": 1145360.127,
+      "easting": 3603001.751,
+      "elevation": 57.9065,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 80,
+      "northing": 1145353.881,
+      "easting": 3602988.872,
+      "elevation": 57.9119,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 81,
+      "northing": 1145347.528,
+      "easting": 3602972.402,
+      "elevation": 57.9959,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 82,
+      "northing": 1145343.732,
+      "easting": 3602959.451,
+      "elevation": 58.2451,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 83,
+      "northing": 1145341.231,
+      "easting": 3602949.557,
+      "elevation": 58.4545,
+      "source": "topo_survey",
+      "type": "TOPD"
+    },
+    {
+      "id": 84,
+      "northing": 1145347.455,
+      "easting": 3602968.133,
+      "elevation": 58.0987,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 85,
+      "northing": 1145345.658,
+      "easting": 3602967.256,
+      "elevation": 58.1132,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 86,
+      "northing": 1145343.389,
+      "easting": 3602966.582,
+      "elevation": 58.0961,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 87,
+      "northing": 1145340.903,
+      "easting": 3602966.81,
+      "elevation": 58.1059,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 88,
+      "northing": 1145330.827,
+      "easting": 3602964.899,
+      "elevation": 58.3367,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 89,
+      "northing": 1145319.623,
+      "easting": 3602961.367,
+      "elevation": 58.4283,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 90,
+      "northing": 1145312.144,
+      "easting": 3602958.458,
+      "elevation": 58.5007,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 91,
+      "northing": 1145301.135,
+      "easting": 3602954.175,
+      "elevation": 58.59,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 92,
+      "northing": 1145287.72,
+      "easting": 3602947.543,
+      "elevation": 58.555,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 93,
+      "northing": 1145276.348,
+      "easting": 3602941.466,
+      "elevation": 58.5081,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 94,
+      "northing": 1145264.096,
+      "easting": 3602934.92,
+      "elevation": 58.3614,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 95,
+      "northing": 1145251.151,
+      "easting": 3602926.653,
+      "elevation": 58.1825,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 96,
+      "northing": 1145247.457,
+      "easting": 3602926.653,
+      "elevation": 58.0235,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 97,
+      "northing": 1145245.067,
+      "easting": 3602927.812,
+      "elevation": 57.9349,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 98,
+      "northing": 1145242.315,
+      "easting": 3602934.404,
+      "elevation": 57.7203,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 99,
+      "northing": 1145241.301,
+      "easting": 3602935.998,
+      "elevation": 57.5578,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 100,
+      "northing": 1145233.842,
+      "easting": 3602931.579,
+      "elevation": 57.2855,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 101,
+      "northing": 1145233.403,
+      "easting": 3602931.354,
+      "elevation": 57.2538,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 102,
+      "northing": 1145224.364,
+      "easting": 3602926.714,
+      "elevation": 56.3777,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 103,
+      "northing": 1145223.818,
+      "easting": 3602926.434,
+      "elevation": 56.3565,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 104,
+      "northing": 1145223.094,
+      "easting": 3602925.637,
+      "elevation": 56.3256,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 105,
+      "northing": 1145228.887,
+      "easting": 3602911.655,
+      "elevation": 56.4246,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 106,
+      "northing": 1145239.606,
+      "easting": 3602917.885,
+      "elevation": 57.5622,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 107,
+      "northing": 1145241.924,
+      "easting": 3602915.857,
+      "elevation": 57.4771,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 108,
+      "northing": 1145246.124,
+      "easting": 3602918.465,
+      "elevation": 57.7896,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 109,
+      "northing": 1145250.718,
+      "easting": 3602921.877,
+      "elevation": 58.0907,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 110,
+      "northing": 1145256.874,
+      "easting": 3602926.876,
+      "elevation": 58.3895,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 111,
+      "northing": 1145263.899,
+      "easting": 3602931.729,
+      "elevation": 58.4374,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 112,
+      "northing": 1145276.169,
+      "easting": 3602938.482,
+      "elevation": 58.5706,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 113,
+      "northing": 1145285.585,
+      "easting": 3602943.472,
+      "elevation": 58.6474,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 114,
+      "northing": 1145296.856,
+      "easting": 3602949.066,
+      "elevation": 58.6945,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 115,
+      "northing": 1145307.068,
+      "easting": 3602953.63,
+      "elevation": 58.6058,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 116,
+      "northing": 1145321.879,
+      "easting": 3602959.294,
+      "elevation": 58.4671,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 117,
+      "northing": 1145331.656,
+      "easting": 3602961.685,
+      "elevation": 58.4015,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 118,
+      "northing": 1145339.768,
+      "easting": 3602962.626,
+      "elevation": 58.1843,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 119,
+      "northing": 1145342.157,
+      "easting": 3602962.554,
+      "elevation": 58.1816,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 120,
+      "northing": 1145343.896,
+      "easting": 3602961.974,
+      "elevation": 58.1921,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 121,
+      "northing": 1145345.199,
+      "easting": 3602959.366,
+      "elevation": 58.302,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 122,
+      "northing": 1145346.537,
+      "easting": 3602956.556,
+      "elevation": 58.392,
+      "source": "topo_survey",
+      "type": "DW"
+    },
+    {
+      "id": 123,
+      "northing": 1145354.5,
+      "easting": 3602996.797,
+      "elevation": 57.9119,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 124,
+      "northing": 1145344.85,
+      "easting": 3603001.185,
+      "elevation": 57.9261,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 125,
+      "northing": 1145336.12,
+      "easting": 3603005.155,
+      "elevation": 57.9251,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 126,
+      "northing": 1145326.935,
+      "easting": 3603009.332,
+      "elevation": 57.9304,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 127,
+      "northing": 1145318.907,
+      "easting": 3603012.983,
+      "elevation": 57.9342,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 128,
+      "northing": 1145311.019,
+      "easting": 3603016.57,
+      "elevation": 57.9309,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 129,
+      "northing": 1145300.658,
+      "easting": 3603021.282,
+      "elevation": 57.9264,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 130,
+      "northing": 1145291.463,
+      "easting": 3603025.464,
+      "elevation": 58.0528,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 131,
+      "northing": 1145279.735,
+      "easting": 3603030.797,
+      "elevation": 58.2264,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 132,
+      "northing": 1145269.329,
+      "easting": 3603035.53,
+      "elevation": 58.3735,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 133,
+      "northing": 1145260.718,
+      "easting": 3603039.446,
+      "elevation": 58.4928,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 134,
+      "northing": 1145249.969,
+      "easting": 3603044.334,
+      "elevation": 58.6418,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 135,
+      "northing": 1145246.71,
+      "easting": 3603037.732,
+      "elevation": 58.6218,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 136,
+      "northing": 1145243.078,
+      "easting": 3603030.375,
+      "elevation": 58.3672,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 137,
+      "northing": 1145239.656,
+      "easting": 3603023.443,
+      "elevation": 58.0633,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 138,
+      "northing": 1145236.171,
+      "easting": 3603016.385,
+      "elevation": 57.5005,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 139,
+      "northing": 1145240.686,
+      "easting": 3603013.336,
+      "elevation": 57.4569,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 140,
+      "northing": 1145247.046,
+      "easting": 3603009.039,
+      "elevation": 57.4582,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 141,
+      "northing": 1145253.432,
+      "easting": 3603004.725,
+      "elevation": 57.53,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 142,
+      "northing": 1145246.605,
+      "easting": 3602996.292,
+      "elevation": 56.4546,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 143,
+      "northing": 1145241.214,
+      "easting": 3602989.634,
+      "elevation": 56.0395,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 144,
+      "northing": 1145235.471,
+      "easting": 3602982.539,
+      "elevation": 55.7211,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 145,
+      "northing": 1145229.703,
+      "easting": 3602975.415,
+      "elevation": 55.568,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 146,
+      "northing": 1145224.338,
+      "easting": 3602968.787,
+      "elevation": 55.4777,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 147,
+      "northing": 1145219.208,
+      "easting": 3602962.451,
+      "elevation": 55.3924,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 148,
+      "northing": 1145213.869,
+      "easting": 3602955.856,
+      "elevation": 55.3323,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 149,
+      "northing": 1145209.887,
+      "easting": 3602950.937,
+      "elevation": 55.3264,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 150,
+      "northing": 1145205.197,
+      "easting": 3602945.144,
+      "elevation": 55.3207,
+      "source": "topo_survey",
+      "type": "FNC"
+    },
+    {
+      "id": 151,
+      "northing": 1145355.968,
+      "easting": 3603034.291,
+      "elevation": 57.8104,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 152,
+      "northing": 1145359.992,
+      "easting": 3603030.265,
+      "elevation": 57.753,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 153,
+      "northing": 1145359.992,
+      "easting": 3603025.392,
+      "elevation": 57.818,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 154,
+      "northing": 1145357.451,
+      "easting": 3603019.036,
+      "elevation": 57.8987,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 155,
+      "northing": 1145354.909,
+      "easting": 3603012.68,
+      "elevation": 57.9157,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 156,
+      "northing": 1145352.367,
+      "easting": 3603006.112,
+      "elevation": 57.9206,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 157,
+      "northing": 1145351.52,
+      "easting": 3603001.875,
+      "elevation": 57.9197,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 158,
+      "northing": 1145308.736,
+      "easting": 3603025.18,
+      "elevation": 57.9238,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 159,
+      "northing": 1145297.728,
+      "easting": 3602960.935,
+      "elevation": 58.4449,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 160,
+      "northing": 1145290.527,
+      "easting": 3602988.266,
+      "elevation": 57.9242,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 161,
+      "northing": 1145264.898,
+      "easting": 3602986.995,
+      "elevation": 57.0195,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 162,
+      "northing": 1145256.466,
+      "easting": 3603046.962,
+      "elevation": 58.5967,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 163,
+      "northing": 1145241.926,
+      "easting": 3603045.123,
+      "elevation": 58.7301,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 164,
+      "northing": 1145237.079,
+      "easting": 3603038.937,
+      "elevation": 58.515,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 165,
+      "northing": 1145233.068,
+      "easting": 3603031.749,
+      "elevation": 58.2051,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 166,
+      "northing": 1145231.397,
+      "easting": 3603025.062,
+      "elevation": 57.9956,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 167,
+      "northing": 1145229.559,
+      "easting": 3603012.356,
+      "elevation": 56.6104,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 168,
+      "northing": 1145232.066,
+      "easting": 3603005.836,
+      "elevation": 56.3004,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 169,
+      "northing": 1145226.885,
+      "easting": 3602996.14,
+      "elevation": 55.762,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 170,
+      "northing": 1145237.701,
+      "easting": 3602968.478,
+      "elevation": 55.9694,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 171,
+      "northing": 1145239.562,
+      "easting": 3602962.659,
+      "elevation": 56.1709,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 172,
+      "northing": 1145248.801,
+      "easting": 3602931.909,
+      "elevation": 58.0572,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 173,
+      "northing": 1145242.046,
+      "easting": 3602928.352,
+      "elevation": 57.9179,
+      "source": "topo_survey",
+      "type": "TR"
+    },
+    {
+      "id": 174,
+      "northing": 1145240.661,
+      "easting": 3602931.122,
+      "elevation": 57.8188,
+      "source": "topo_survey",
+      "type": "TTR"
+    },
+    {
+      "id": 175,
+      "northing": 1145334.164,
+      "easting": 3602945.754,
+      "elevation": 58.5407,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 176,
+      "northing": 1145333.662,
+      "easting": 3602949.476,
+      "elevation": 58.465,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 177,
+      "northing": 1145325.489,
+      "easting": 3602956.249,
+      "elevation": 58.5237,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 178,
+      "northing": 1145319.359,
+      "easting": 3602955.259,
+      "elevation": 58.4823,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 179,
+      "northing": 1145303.108,
+      "easting": 3602949.19,
+      "elevation": 58.6108,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 180,
+      "northing": 1145289.24,
+      "easting": 3602943.685,
+      "elevation": 58.6608,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 181,
+      "northing": 1145276.817,
+      "easting": 3602936.683,
+      "elevation": 58.63,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 182,
+      "northing": 1145264.771,
+      "easting": 3602930.146,
+      "elevation": 58.4998,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 183,
+      "northing": 1145258.341,
+      "easting": 3602925.387,
+      "elevation": 58.4655,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 184,
+      "northing": 1145251.818,
+      "easting": 3602921.095,
+      "elevation": 58.1258,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 185,
+      "northing": 1145247.123,
+      "easting": 3602916.887,
+      "elevation": 57.7359,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 186,
+      "northing": 1145242.277,
+      "easting": 3602914.461,
+      "elevation": 57.4182,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 187,
+      "northing": 1145238.083,
+      "easting": 3602915.674,
+      "elevation": 57.3585,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 188,
+      "northing": 1145229.696,
+      "easting": 3602910.728,
+      "elevation": 56.4662,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 189,
+      "northing": 1145227.889,
+      "easting": 3602908.387,
+      "elevation": 56.3389,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 190,
+      "northing": 1145227.889,
+      "easting": 3602902.135,
+      "elevation": 56.2993,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 191,
+      "northing": 1145224.627,
+      "easting": 3602904.094,
+      "elevation": 56.2235,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 192,
+      "northing": 1145214.935,
+      "easting": 3602907.453,
+      "elevation": 55.9682,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 193,
+      "northing": 1145207.18,
+      "easting": 3602908.862,
+      "elevation": 55.7661,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 194,
+      "northing": 1145202.424,
+      "easting": 3602905.399,
+      "elevation": 55.6426,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 195,
+      "northing": 1145197.07,
+      "easting": 3602900.096,
+      "elevation": 55.4876,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 196,
+      "northing": 1145191.369,
+      "easting": 3602892.639,
+      "elevation": 55.4679,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 197,
+      "northing": 1145184.542,
+      "easting": 3602887.689,
+      "elevation": 55.4082,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 198,
+      "northing": 1145174.654,
+      "easting": 3602882.503,
+      "elevation": 55.3826,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 199,
+      "northing": 1145162.57,
+      "easting": 3602879.418,
+      "elevation": 55.3453,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 200,
+      "northing": 1145155.507,
+      "easting": 3602875.411,
+      "elevation": 55.5093,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 201,
+      "northing": 1145144.678,
+      "easting": 3602867.868,
+      "elevation": 56.0397,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 202,
+      "northing": 1145135.497,
+      "easting": 3602860.561,
+      "elevation": 56.7589,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 203,
+      "northing": 1145122.008,
+      "easting": 3602851.58,
+      "elevation": 56.713,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 204,
+      "northing": 1145110.708,
+      "easting": 3602844.744,
+      "elevation": 55.9996,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 205,
+      "northing": 1145108.589,
+      "easting": 3602835.316,
+      "elevation": 55.7865,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 206,
+      "northing": 1145110.943,
+      "easting": 3602829.423,
+      "elevation": 55.8972,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 207,
+      "northing": 1145133.649,
+      "easting": 3603235.577,
+      "elevation": 56.7087,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 208,
+      "northing": 1145117.666,
+      "easting": 3603241.705,
+      "elevation": 54.4536,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 209,
+      "northing": 1145105.537,
+      "easting": 3603246.586,
+      "elevation": 52.9868,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 210,
+      "northing": 1145097.263,
+      "easting": 3603248.629,
+      "elevation": 52.7315,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 211,
+      "northing": 1145085.884,
+      "easting": 3603250.894,
+      "elevation": 53.2265,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 212,
+      "northing": 1145074.278,
+      "easting": 3603254.869,
+      "elevation": 54.3904,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 213,
+      "northing": 1145059.768,
+      "easting": 3603257.366,
+      "elevation": 55.1394,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 214,
+      "northing": 1145051.267,
+      "easting": 3603264.516,
+      "elevation": 53.5936,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 215,
+      "northing": 1145044.317,
+      "easting": 3603276.565,
+      "elevation": 51.4766,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 216,
+      "northing": 1145038.423,
+      "easting": 3603293.022,
+      "elevation": 50.2757,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 217,
+      "northing": 1145019.682,
+      "easting": 3603285.846,
+      "elevation": 50.2736,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 218,
+      "northing": 1145022.813,
+      "easting": 3603279.218,
+      "elevation": 50.2772,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 219,
+      "northing": 1145024.602,
+      "easting": 3603267.664,
+      "elevation": 50.2908,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 220,
+      "northing": 1145019.861,
+      "easting": 3603265.245,
+      "elevation": 50.2877,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 221,
+      "northing": 1145015.031,
+      "easting": 3603268.291,
+      "elevation": 50.2778,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 222,
+      "northing": 1145008.59,
+      "easting": 3603263.454,
+      "elevation": 50.2727,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 223,
+      "northing": 1145011.989,
+      "easting": 3603253.512,
+      "elevation": 50.2912,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 224,
+      "northing": 1145005.61,
+      "easting": 3603239.881,
+      "elevation": 51.4627,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 225,
+      "northing": 1145002.747,
+      "easting": 3603232.537,
+      "elevation": 52.0524,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 226,
+      "northing": 1144999.616,
+      "easting": 3603222.416,
+      "elevation": 52.5895,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 227,
+      "northing": 1145003.633,
+      "easting": 3603214.505,
+      "elevation": 53.5517,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 228,
+      "northing": 1145013.562,
+      "easting": 3603208.862,
+      "elevation": 55.1249,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 229,
+      "northing": 1145026.197,
+      "easting": 3603202.582,
+      "elevation": 56.4223,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 230,
+      "northing": 1145034.964,
+      "easting": 3603191.297,
+      "elevation": 56.2656,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 231,
+      "northing": 1145025.661,
+      "easting": 3603181.176,
+      "elevation": 55.3765,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 232,
+      "northing": 1145020.286,
+      "easting": 3603170.857,
+      "elevation": 53.9349,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 233,
+      "northing": 1145010.804,
+      "easting": 3603164.676,
+      "elevation": 52.756,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 234,
+      "northing": 1145001.022,
+      "easting": 3603157.77,
+      "elevation": 52.0598,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 235,
+      "northing": 1144993.508,
+      "easting": 3603153.65,
+      "elevation": 51.6806,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 236,
+      "northing": 1144985.01,
+      "easting": 3603148.724,
+      "elevation": 51.2164,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 237,
+      "northing": 1144979.661,
+      "easting": 3603124.983,
+      "elevation": 49.9025,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 238,
+      "northing": 1144968.452,
+      "easting": 3603112.843,
+      "elevation": 48.768,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 239,
+      "northing": 1144962.504,
+      "easting": 3603094.061,
+      "elevation": 48.768,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 240,
+      "northing": 1144973.027,
+      "easting": 3603089.021,
+      "elevation": 48.768,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 241,
+      "northing": 1144972.552,
+      "easting": 3603060.119,
+      "elevation": 48.768,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 242,
+      "northing": 1144965.46,
+      "easting": 3603039.046,
+      "elevation": 48.768,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 243,
+      "northing": 1144964.077,
+      "easting": 3603014.504,
+      "elevation": 50.0498,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 244,
+      "northing": 1144969.338,
+      "easting": 3602994.577,
+      "elevation": 50.9325,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 245,
+      "northing": 1144979.65,
+      "easting": 3602969.58,
+      "elevation": 51.9595,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 246,
+      "northing": 1144984.004,
+      "easting": 3602950.321,
+      "elevation": 52.0733,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 247,
+      "northing": 1144988.351,
+      "easting": 3602934.746,
+      "elevation": 51.9771,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 248,
+      "northing": 1144994.31,
+      "easting": 3602916.153,
+      "elevation": 52.2351,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 249,
+      "northing": 1144997.97,
+      "easting": 3602894.851,
+      "elevation": 52.4385,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 250,
+      "northing": 1145003.249,
+      "easting": 3602873.515,
+      "elevation": 52.8869,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 251,
+      "northing": 1145008.281,
+      "easting": 3602858.626,
+      "elevation": 53.2871,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 252,
+      "northing": 1145014.229,
+      "easting": 3602846.715,
+      "elevation": 53.889,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 253,
+      "northing": 1145014.924,
+      "easting": 3602832.48,
+      "elevation": 54.7589,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 254,
+      "northing": 1145017.211,
+      "easting": 3602814.384,
+      "elevation": 56.3948,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 255,
+      "northing": 1145028.192,
+      "easting": 3602801.787,
+      "elevation": 56.744,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 256,
+      "northing": 1145037.342,
+      "easting": 3602801.787,
+      "elevation": 56.6122,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 257,
+      "northing": 1145057.756,
+      "easting": 3602810.028,
+      "elevation": 55.7646,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 258,
+      "northing": 1145067.593,
+      "easting": 3602808.424,
+      "elevation": 55.8952,
+      "source": "topo_survey",
+      "type": "TL"
+    },
+    {
+      "id": 259,
+      "northing": 1145245.655,
+      "easting": 3603071.229,
+      "elevation": 58.8629,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 260,
+      "northing": 1145234.3,
+      "easting": 3603077.195,
+      "elevation": 58.9784,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 261,
+      "northing": 1145216.986,
+      "easting": 3603075.957,
+      "elevation": 59.2328,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 262,
+      "northing": 1145212.713,
+      "easting": 3603062.899,
+      "elevation": 58.7573,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 263,
+      "northing": 1145217.998,
+      "easting": 3603052.543,
+      "elevation": 58.5695,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 264,
+      "northing": 1145226.879,
+      "easting": 3603050.854,
+      "elevation": 58.666,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 265,
+      "northing": 1145229.128,
+      "easting": 3603045.788,
+      "elevation": 58.5527,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 266,
+      "northing": 1145233.962,
+      "easting": 3603043.762,
+      "elevation": 58.6029,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 267,
+      "northing": 1145238.684,
+      "easting": 3603047.815,
+      "elevation": 58.7849,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 268,
+      "northing": 1145244.193,
+      "easting": 3603050.179,
+      "elevation": 58.7477,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 269,
+      "northing": 1145246.892,
+      "easting": 3603055.807,
+      "elevation": 58.7655,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 270,
+      "northing": 1145246.329,
+      "easting": 3603065.376,
+      "elevation": 58.8235,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 271,
+      "northing": 1145246.331,
+      "easting": 3603094.91,
+      "elevation": 58.7116,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 272,
+      "northing": 1145242.059,
+      "easting": 3603106.73,
+      "elevation": 58.7942,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 273,
+      "northing": 1145236.325,
+      "easting": 3603113.934,
+      "elevation": 58.9269,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 274,
+      "northing": 1145229.691,
+      "easting": 3603117.086,
+      "elevation": 59.0493,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 275,
+      "northing": 1145220.472,
+      "easting": 3603112.246,
+      "elevation": 59.2022,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 276,
+      "northing": 1145215.863,
+      "easting": 3603104.591,
+      "elevation": 59.2723,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 277,
+      "northing": 1145214.289,
+      "easting": 3603096.261,
+      "elevation": 59.3298,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 278,
+      "northing": 1145219.798,
+      "easting": 3603089.169,
+      "elevation": 59.2133,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 279,
+      "northing": 1145230.816,
+      "easting": 3603086.017,
+      "elevation": 58.9948,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 280,
+      "northing": 1145238.573,
+      "easting": 3603088.719,
+      "elevation": 58.8565,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 281,
+      "northing": 1145242.508,
+      "easting": 3603087.03,
+      "elevation": 58.7793,
+      "source": "topo_survey",
+      "type": "ESHB"
+    },
+    {
+      "id": 282,
+      "northing": 1145306.717,
+      "easting": 3603008.108,
+      "elevation": 57.9366,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 283,
+      "northing": 1145297.572,
+      "easting": 3603012.347,
+      "elevation": 57.9287,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 284,
+      "northing": 1145290.222,
+      "easting": 3602996.488,
+      "elevation": 57.9215,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 285,
+      "northing": 1145299.366,
+      "easting": 3602992.249,
+      "elevation": 57.9327,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 286,
+      "northing": 1145269.199,
+      "easting": 3603032.027,
+      "elevation": 58.3466,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 287,
+      "northing": 1145261.295,
+      "easting": 3603036.021,
+      "elevation": 58.4593,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 288,
+      "northing": 1145260.718,
+      "easting": 3603034.878,
+      "elevation": 58.456,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 289,
+      "northing": 1145253.124,
+      "easting": 3603038.715,
+      "elevation": 58.5644,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 290,
+      "northing": 1145251.112,
+      "easting": 3603034.733,
+      "elevation": 58.5528,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 291,
+      "northing": 1145258.706,
+      "easting": 3603030.896,
+      "elevation": 58.4445,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 292,
+      "northing": 1145258.3,
+      "easting": 3603030.094,
+      "elevation": 58.4422,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 293,
+      "northing": 1145266.204,
+      "easting": 3603026.101,
+      "elevation": 58.3294,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 294,
+      "northing": 1145249.566,
+      "easting": 3603028.393,
+      "elevation": 58.4272,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 295,
+      "northing": 1145244.153,
+      "easting": 3603031.129,
+      "elevation": 58.4103,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 296,
+      "northing": 1145242.146,
+      "easting": 3603027.156,
+      "elevation": 58.2269,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 297,
+      "northing": 1145247.559,
+      "easting": 3603024.421,
+      "elevation": 58.2702,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 298,
+      "northing": 1145258.697,
+      "easting": 3603004.174,
+      "elevation": 57.7786,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 299,
+      "northing": 1145261.617,
+      "easting": 3603009.953,
+      "elevation": 58.0939,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 300,
+      "northing": 1145259.304,
+      "easting": 3603011.121,
+      "elevation": 58.0871,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 301,
+      "northing": 1145256.384,
+      "easting": 3603005.343,
+      "elevation": 57.7572,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 302,
+      "northing": 1145253.055,
+      "easting": 3602945.168,
+      "elevation": 57.7035,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 303,
+      "northing": 1145249.541,
+      "easting": 3602958.667,
+      "elevation": 56.8068,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 304,
+      "northing": 1145239.127,
+      "easting": 3602955.956,
+      "elevation": 56.3255,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 305,
+      "northing": 1145242.642,
+      "easting": 3602942.457,
+      "elevation": 57.2517,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 306,
+      "northing": 1145233.403,
+      "easting": 3602931.354,
+      "elevation": 57.2538,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 307,
+      "northing": 1145228.565,
+      "easting": 3602940.779,
+      "elevation": 56.3691,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 308,
+      "northing": 1145219.526,
+      "easting": 3602936.139,
+      "elevation": 56.1023,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 309,
+      "northing": 1145224.364,
+      "easting": 3602926.714,
+      "elevation": 56.3777,
+      "source": "topo_survey",
+      "type": "BLD"
+    },
+    {
+      "id": 310,
+      "northing": 1145281.016,
+      "easting": 3602984.866,
+      "elevation": 57.9009,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 311,
+      "northing": 1145262.865,
+      "easting": 3602982.023,
+      "elevation": 56.8977,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 312,
+      "northing": 1145248.904,
+      "easting": 3602980.676,
+      "elevation": 56.21,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 313,
+      "northing": 1145238.186,
+      "easting": 3602980.81,
+      "elevation": 55.8203,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 314,
+      "northing": 1145226.608,
+      "easting": 3602980.536,
+      "elevation": 55.4041,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 315,
+      "northing": 1145215.354,
+      "easting": 3602980.267,
+      "elevation": 55.0006,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 316,
+      "northing": 1145204.186,
+      "easting": 3602980.127,
+      "elevation": 54.7444,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 317,
+      "northing": 1145190.386,
+      "easting": 3602979.993,
+      "elevation": 54.5317,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 318,
+      "northing": 1145178.267,
+      "easting": 3602979.58,
+      "elevation": 54.3446,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 319,
+      "northing": 1145165.941,
+      "easting": 3602978.372,
+      "elevation": 54.1525,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 320,
+      "northing": 1145154.235,
+      "easting": 3602976.489,
+      "elevation": 53.9684,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 321,
+      "northing": 1145142.043,
+      "easting": 3602975.013,
+      "elevation": 53.7778,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 322,
+      "northing": 1145130.612,
+      "easting": 3602973.399,
+      "elevation": 53.5985,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 323,
+      "northing": 1145119.357,
+      "easting": 3602972.728,
+      "elevation": 53.4285,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 324,
+      "northing": 1145105.29,
+      "easting": 3602972.192,
+      "elevation": 53.2409,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 325,
+      "northing": 1145091.816,
+      "easting": 3602972.457,
+      "elevation": 53.0922,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 326,
+      "northing": 1145077.213,
+      "easting": 3602974.201,
+      "elevation": 52.927,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 327,
+      "northing": 1145066.546,
+      "easting": 3602976.216,
+      "elevation": 52.8043,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 328,
+      "northing": 1145052.345,
+      "easting": 3602977.289,
+      "elevation": 52.6454,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 329,
+      "northing": 1145040.421,
+      "easting": 3602978.094,
+      "elevation": 52.5122,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 330,
+      "northing": 1145029.25,
+      "easting": 3602979.169,
+      "elevation": 52.3885,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 331,
+      "northing": 1145018.398,
+      "easting": 3602981.047,
+      "elevation": 52.2637,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 332,
+      "northing": 1145004.945,
+      "easting": 3602984.267,
+      "elevation": 52.1057,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 333,
+      "northing": 1144986.858,
+      "easting": 3602984.938,
+      "elevation": 51.9306,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 334,
+      "northing": 1145189.741,
+      "easting": 3602873.882,
+      "elevation": 55.8304,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 335,
+      "northing": 1145177.732,
+      "easting": 3602883.901,
+      "elevation": 55.3713,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 336,
+      "northing": 1145167.725,
+      "easting": 3602892.852,
+      "elevation": 54.9722,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 337,
+      "northing": 1145157.451,
+      "easting": 3602902.071,
+      "elevation": 54.6787,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 338,
+      "northing": 1145146.063,
+      "easting": 3602913.308,
+      "elevation": 54.404,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 339,
+      "northing": 1145137.256,
+      "easting": 3602922.393,
+      "elevation": 54.1905,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 340,
+      "northing": 1145131.386,
+      "easting": 3602932.012,
+      "elevation": 53.9857,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 341,
+      "northing": 1145121.884,
+      "easting": 3602947.93,
+      "elevation": 53.6568,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 342,
+      "northing": 1145106.078,
+      "easting": 3602831.926,
+      "elevation": 55.7302,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 343,
+      "northing": 1145095.031,
+      "easting": 3602840.744,
+      "elevation": 55.3419,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 344,
+      "northing": 1145082.492,
+      "easting": 3602853.15,
+      "elevation": 54.8442,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 345,
+      "northing": 1145071.379,
+      "easting": 3602853.145,
+      "elevation": 54.5519,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 346,
+      "northing": 1145054.809,
+      "easting": 3602854.64,
+      "elevation": 54.1424,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 347,
+      "northing": 1145041.311,
+      "easting": 3602858.079,
+      "elevation": 53.7889,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 348,
+      "northing": 1145026.383,
+      "easting": 3602858.527,
+      "elevation": 53.4784,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 349,
+      "northing": 1145014.142,
+      "easting": 3602856.285,
+      "elevation": 53.3144,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 350,
+      "northing": 1145006.448,
+      "easting": 3602867.819,
+      "elevation": 53.0301,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 351,
+      "northing": 1144998.387,
+      "easting": 3602881.42,
+      "elevation": 52.6914,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 352,
+      "northing": 1144991.52,
+      "easting": 3602893.975,
+      "elevation": 52.3743,
+      "source": "topo_survey",
+      "type": "SWL"
+    },
+    {
+      "id": 353,
+      "northing": 1145139.866,
+      "easting": 3602845.319,
+      "elevation": 57.0012,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 354,
+      "northing": 1145122.712,
+      "easting": 3602869.795,
+      "elevation": 56.5026,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 355,
+      "northing": 1145109.417,
+      "easting": 3602887.83,
+      "elevation": 56.3941,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 356,
+      "northing": 1145094.407,
+      "easting": 3602903.718,
+      "elevation": 56.3894,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 357,
+      "northing": 1145075.537,
+      "easting": 3602919.606,
+      "elevation": 55.2465,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 358,
+      "northing": 1145058.382,
+      "easting": 3602932.488,
+      "elevation": 54.1714,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 359,
+      "northing": 1145040.799,
+      "easting": 3602945.37,
+      "elevation": 53.2475,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 360,
+      "northing": 1145021.929,
+      "easting": 3602956.964,
+      "elevation": 52.8328,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 361,
+      "northing": 1145005.203,
+      "easting": 3602967.699,
+      "elevation": 52.4525,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 362,
+      "northing": 1144991.479,
+      "easting": 3602978.864,
+      "elevation": 52.1071,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 363,
+      "northing": 1145199.563,
+      "easting": 3603206.982,
+      "elevation": 59.2631,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 364,
+      "northing": 1145196.795,
+      "easting": 3603181.645,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 365,
+      "northing": 1145194.445,
+      "easting": 3603153.2,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 366,
+      "northing": 1145185.282,
+      "easting": 3603127.834,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 367,
+      "northing": 1145166.416,
+      "easting": 3603106.246,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 368,
+      "northing": 1145145.934,
+      "easting": 3603089.516,
+      "elevation": 58.8719,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 369,
+      "northing": 1145125.991,
+      "easting": 3603072.785,
+      "elevation": 58.1877,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 370,
+      "northing": 1145106.047,
+      "easting": 3603059.293,
+      "elevation": 56.1544,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 371,
+      "northing": 1145082.191,
+      "easting": 3603050.083,
+      "elevation": 55.433,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 372,
+      "northing": 1145053.624,
+      "easting": 3603037.67,
+      "elevation": 54.4882,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 373,
+      "northing": 1145022.9,
+      "easting": 3603026.337,
+      "elevation": 53.5901,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 374,
+      "northing": 1145004.034,
+      "easting": 3603012.305,
+      "elevation": 52.7684,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 375,
+      "northing": 1144989.481,
+      "easting": 3602996.114,
+      "elevation": 52.1003,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 376,
+      "northing": 1145141.97,
+      "easting": 3603227.831,
+      "elevation": 57.9665,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 377,
+      "northing": 1145138.609,
+      "easting": 3603205.534,
+      "elevation": 58.4571,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 378,
+      "northing": 1145136.928,
+      "easting": 3603174.822,
+      "elevation": 57.9227,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 379,
+      "northing": 1145123.482,
+      "easting": 3603159.257,
+      "elevation": 57.9303,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 380,
+      "northing": 1145107.096,
+      "easting": 3603147.056,
+      "elevation": 57.9362,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 381,
+      "northing": 1145101.213,
+      "easting": 3603128.125,
+      "elevation": 57.8873,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 382,
+      "northing": 1145105.415,
+      "easting": 3603101.2,
+      "elevation": 57.9281,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 383,
+      "northing": 1145108.777,
+      "easting": 3603084.793,
+      "elevation": 57.9535,
+      "source": "topo_survey",
+      "type": "TOB"
+    },
+    {
+      "id": 384,
+      "northing": 1145056.512,
+      "easting": 3603287.954,
+      "elevation": 50.2892,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 385,
+      "northing": 1145035.084,
+      "easting": 3603277.858,
+      "elevation": 50.2904,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 386,
+      "northing": 1145024.159,
+      "easting": 3603265.657,
+      "elevation": 50.3915,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 387,
+      "northing": 1145013.235,
+      "easting": 3603254.298,
+      "elevation": 50.3054,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 388,
+      "northing": 1145001.47,
+      "easting": 3603242.519,
+      "elevation": 50.2905,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 389,
+      "northing": 1144990.125,
+      "easting": 3603231.16,
+      "elevation": 50.2915,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 390,
+      "northing": 1144978.361,
+      "easting": 3603221.484,
+      "elevation": 50.4417,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 391,
+      "northing": 1144968.277,
+      "easting": 3603212.229,
+      "elevation": 50.4655,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 392,
+      "northing": 1144959.453,
+      "easting": 3603199.608,
+      "elevation": 50.0626,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 393,
+      "northing": 1144954.411,
+      "easting": 3603185.724,
+      "elevation": 49.7488,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 394,
+      "northing": 1144951.89,
+      "easting": 3603168.055,
+      "elevation": 49.2969,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 395,
+      "northing": 1144951.47,
+      "easting": 3603147.862,
+      "elevation": 48.865,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 396,
+      "northing": 1144959.873,
+      "easting": 3603134.82,
+      "elevation": 49.0396,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 397,
+      "northing": 1144971.218,
+      "easting": 3603116.309,
+      "elevation": 48.8285,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 398,
+      "northing": 1144981.302,
+      "easting": 3603103.688,
+      "elevation": 48.8802,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 399,
+      "northing": 1144988.025,
+      "easting": 3603090.646,
+      "elevation": 48.9443,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 400,
+      "northing": 1144987.184,
+      "easting": 3603067.929,
+      "elevation": 48.8429,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 401,
+      "northing": 1144977.874,
+      "easting": 3603048.506,
+      "elevation": 48.8056,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 402,
+      "northing": 1144966.949,
+      "easting": 3603036.306,
+      "elevation": 48.768,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 403,
+      "northing": 1144950.983,
+      "easting": 3603017.375,
+      "elevation": 48.8168,
+      "source": "topo_survey",
+      "type": "BOB"
+    },
+    {
+      "id": 404,
+      "northing": 1145436.479,
+      "easting": 3603114.624,
+      "elevation": 56.6813,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 405,
+      "northing": 1145428.929,
+      "easting": 3603103.577,
+      "elevation": 56.892,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 406,
+      "northing": 1145418.186,
+      "easting": 3603089.331,
+      "elevation": 57.0756,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 407,
+      "northing": 1145403.668,
+      "easting": 3603079.155,
+      "elevation": 57.202,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 408,
+      "northing": 1145394.376,
+      "easting": 3603070.433,
+      "elevation": 57.2902,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 409,
+      "northing": 1145382.471,
+      "easting": 3603059.386,
+      "elevation": 57.3091,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 410,
+      "northing": 1145369.695,
+      "easting": 3603046.303,
+      "elevation": 57.561,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 411,
+      "northing": 1145418.75,
+      "easting": 3603121.601,
+      "elevation": 56.6657,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 412,
+      "northing": 1145416.427,
+      "easting": 3603109.971,
+      "elevation": 56.8008,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 413,
+      "northing": 1145406.265,
+      "easting": 3603099.214,
+      "elevation": 56.9486,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 414,
+      "northing": 1145392.327,
+      "easting": 3603087.004,
+      "elevation": 57.0758,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 415,
+      "northing": 1145378.97,
+      "easting": 3603080.317,
+      "elevation": 57.2432,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 416,
+      "northing": 1145370.55,
+      "easting": 3603069.851,
+      "elevation": 57.3947,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 417,
+      "northing": 1145358.064,
+      "easting": 3603055.896,
+      "elevation": 57.6041,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 418,
+      "northing": 1145346.946,
+      "easting": 3603044.26,
+      "elevation": 57.783,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 419,
+      "northing": 1145344.913,
+      "easting": 3603028.851,
+      "elevation": 57.9141,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 420,
+      "northing": 1145342.01,
+      "easting": 3603017.222,
+      "elevation": 57.9168,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 421,
+      "northing": 1145328.363,
+      "easting": 3603022.746,
+      "elevation": 57.9269,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 422,
+      "northing": 1145330.685,
+      "easting": 3603033.793,
+      "elevation": 57.9164,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 423,
+      "northing": 1145333.589,
+      "easting": 3603047.748,
+      "elevation": 57.7881,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 424,
+      "northing": 1145342.881,
+      "easting": 3603064.902,
+      "elevation": 57.5542,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 425,
+      "northing": 1145355.657,
+      "easting": 3603077.403,
+      "elevation": 57.368,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 426,
+      "northing": 1145365.239,
+      "easting": 3603090.195,
+      "elevation": 57.1896,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 427,
+      "northing": 1145377.144,
+      "easting": 3603098.045,
+      "elevation": 57.0607,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 428,
+      "northing": 1145389.92,
+      "easting": 3603108.511,
+      "elevation": 56.9011,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 429,
+      "northing": 1145401.244,
+      "easting": 3603116.651,
+      "elevation": 56.7625,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 430,
+      "northing": 1145405.019,
+      "easting": 3603127.699,
+      "elevation": 56.6268,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 431,
+      "northing": 1145390.21,
+      "easting": 3603133.223,
+      "elevation": 56.7315,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 432,
+      "northing": 1145384.403,
+      "easting": 3603123.338,
+      "elevation": 56.7974,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 433,
+      "northing": 1145374.24,
+      "easting": 3603114.326,
+      "elevation": 56.9287,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 434,
+      "northing": 1145362.335,
+      "easting": 3603106.185,
+      "elevation": 57.0722,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 435,
+      "northing": 1145351.592,
+      "easting": 3603096.882,
+      "elevation": 57.2143,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 436,
+      "northing": 1145344.623,
+      "easting": 3603086.125,
+      "elevation": 57.3401,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 437,
+      "northing": 1145332.137,
+      "easting": 3603075.659,
+      "elevation": 57.5042,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 438,
+      "northing": 1145322.846,
+      "easting": 3603056.47,
+      "elevation": 57.7249,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 439,
+      "northing": 1145318.49,
+      "easting": 3603039.899,
+      "elevation": 57.9126,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 440,
+      "northing": 1145316.167,
+      "easting": 3603030.305,
+      "elevation": 57.9199,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 441,
+      "northing": 1145301.649,
+      "easting": 3603031.468,
+      "elevation": 57.9583,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 442,
+      "northing": 1145306.005,
+      "easting": 3603047.167,
+      "elevation": 57.9002,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 443,
+      "northing": 1145310.07,
+      "easting": 3603061.994,
+      "elevation": 57.7598,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 444,
+      "northing": 1145318.2,
+      "easting": 3603081.182,
+      "elevation": 57.5732,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 445,
+      "northing": 1145329.234,
+      "easting": 3603098.335,
+      "elevation": 57.4275,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 446,
+      "northing": 1145339.396,
+      "easting": 3603108.802,
+      "elevation": 57.3127,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 447,
+      "northing": 1145349.849,
+      "easting": 3603120.14,
+      "elevation": 57.2059,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 448,
+      "northing": 1145360.593,
+      "easting": 3603128.571,
+      "elevation": 57.1116,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 449,
+      "northing": 1145372.207,
+      "easting": 3603139.328,
+      "elevation": 57.0028,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 450,
+      "northing": 1145350.08,
+      "easting": 3603148.939,
+      "elevation": 57.4561,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 451,
+      "northing": 1145340.208,
+      "easting": 3603137.891,
+      "elevation": 57.4193,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 452,
+      "northing": 1145331.788,
+      "easting": 3603125.389,
+      "elevation": 57.4931,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 453,
+      "northing": 1145323.367,
+      "easting": 3603116.958,
+      "elevation": 57.5542,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 454,
+      "northing": 1145316.398,
+      "easting": 3603104.457,
+      "elevation": 57.5836,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 455,
+      "northing": 1145306.526,
+      "easting": 3603090.211,
+      "elevation": 57.6885,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 456,
+      "northing": 1145300.428,
+      "easting": 3603074.512,
+      "elevation": 57.7669,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 457,
+      "northing": 1145294.833,
+      "easting": 3603064.013,
+      "elevation": 57.8614,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 458,
+      "northing": 1145289.897,
+      "easting": 3603049.477,
+      "elevation": 58.1993,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 459,
+      "northing": 1145276.54,
+      "easting": 3603047.151,
+      "elevation": 58.3525,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 460,
+      "northing": 1145268.12,
+      "easting": 3603052.675,
+      "elevation": 58.4862,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 461,
+      "northing": 1145259.409,
+      "easting": 3603060.815,
+      "elevation": 58.6372,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 462,
+      "northing": 1145271.314,
+      "easting": 3603066.63,
+      "elevation": 58.2748,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 463,
+      "northing": 1145280.896,
+      "easting": 3603066.63,
+      "elevation": 58.0582,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 464,
+      "northing": 1145283.509,
+      "easting": 3603081.457,
+      "elevation": 57.9811,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 465,
+      "northing": 1145290.768,
+      "easting": 3603095.412,
+      "elevation": 57.8815,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 466,
+      "northing": 1145300.641,
+      "easting": 3603111.402,
+      "elevation": 57.8342,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 467,
+      "northing": 1145307.319,
+      "easting": 3603123.322,
+      "elevation": 57.815,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 468,
+      "northing": 1145310.513,
+      "easting": 3603135.242,
+      "elevation": 57.8034,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 469,
+      "northing": 1145319.559,
+      "easting": 3603147.784,
+      "elevation": 57.8757,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 470,
+      "northing": 1145325.947,
+      "easting": 3603157.378,
+      "elevation": 57.9,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 471,
+      "northing": 1145310.848,
+      "easting": 3603163.483,
+      "elevation": 57.9934,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 472,
+      "northing": 1145302.137,
+      "easting": 3603153.017,
+      "elevation": 58.1971,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 473,
+      "northing": 1145297.201,
+      "easting": 3603143.423,
+      "elevation": 58.0545,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 474,
+      "northing": 1145294.878,
+      "easting": 3603130.921,
+      "elevation": 58.0371,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 475,
+      "northing": 1145289.361,
+      "easting": 3603119.874,
+      "elevation": 58.0711,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 476,
+      "northing": 1145281.522,
+      "easting": 3603106.209,
+      "elevation": 58.1016,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 477,
+      "northing": 1145274.843,
+      "easting": 3603092.254,
+      "elevation": 58.1607,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 478,
+      "northing": 1145267.003,
+      "easting": 3603084.695,
+      "elevation": 58.303,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 479,
+      "northing": 1145260.325,
+      "easting": 3603079.171,
+      "elevation": 58.4224,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 480,
+      "northing": 1145246.678,
+      "easting": 3603083.242,
+      "elevation": 58.6943,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 481,
+      "northing": 1145253.647,
+      "easting": 3603091.382,
+      "elevation": 58.5671,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 482,
+      "northing": 1145260.325,
+      "easting": 3603100.976,
+      "elevation": 58.4512,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 483,
+      "northing": 1145267.003,
+      "easting": 3603109.698,
+      "elevation": 58.3675,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 484,
+      "northing": 1145271.359,
+      "easting": 3603119.874,
+      "elevation": 58.3107,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 485,
+      "northing": 1145276.295,
+      "easting": 3603131.503,
+      "elevation": 58.3699,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 486,
+      "northing": 1145279.779,
+      "easting": 3603146.621,
+      "elevation": 58.3829,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 487,
+      "northing": 1145285.877,
+      "easting": 3603157.959,
+      "elevation": 58.4846,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 488,
+      "northing": 1145289.361,
+      "easting": 3603171.914,
+      "elevation": 58.2899,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 489,
+      "northing": 1145276.805,
+      "easting": 3603178.613,
+      "elevation": 58.2804,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 490,
+      "northing": 1145268.094,
+      "easting": 3603162.623,
+      "elevation": 58.7913,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 491,
+      "northing": 1145266.933,
+      "easting": 3603150.703,
+      "elevation": 58.6287,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 492,
+      "northing": 1145259.674,
+      "easting": 3603141.399,
+      "elevation": 58.7125,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 493,
+      "northing": 1145254.737,
+      "easting": 3603128.607,
+      "elevation": 58.6026,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 494,
+      "northing": 1145252.414,
+      "easting": 3603118.722,
+      "elevation": 58.6534,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 495,
+      "northing": 1145248.059,
+      "easting": 3603109.128,
+      "elevation": 58.6919,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 496,
+      "northing": 1145237.316,
+      "easting": 3603123.665,
+      "elevation": 58.9183,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 497,
+      "northing": 1145239.638,
+      "easting": 3603139.655,
+      "elevation": 58.8892,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 498,
+      "northing": 1145246.026,
+      "easting": 3603153.028,
+      "elevation": 59.0214,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 499,
+      "northing": 1145254.447,
+      "easting": 3603164.076,
+      "elevation": 58.9777,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 500,
+      "northing": 1145258.222,
+      "easting": 3603178.903,
+      "elevation": 58.6673,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 501,
+      "northing": 1145251.543,
+      "easting": 3603187.916,
+      "elevation": 58.6889,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 502,
+      "northing": 1145230.347,
+      "easting": 3603100.988,
+      "elevation": 59.0138,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 503,
+      "northing": 1145232.379,
+      "easting": 3603063.193,
+      "elevation": 58.973,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 504,
+      "northing": 1145243.029,
+      "easting": 3603177.27,
+      "elevation": 59.0477,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 505,
+      "northing": 1145237.317,
+      "easting": 3603163.382,
+      "elevation": 59.2319,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 506,
+      "northing": 1145229.362,
+      "easting": 3603151.741,
+      "elevation": 59.1364,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 507,
+      "northing": 1145225.691,
+      "easting": 3603134.586,
+      "elevation": 59.1047,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 508,
+      "northing": 1145218.144,
+      "easting": 3603125.599,
+      "elevation": 59.2591,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 509,
+      "northing": 1145205.701,
+      "easting": 3603109.057,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 510,
+      "northing": 1145196.93,
+      "easting": 3603121.515,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 511,
+      "northing": 1145205.293,
+      "easting": 3603137.036,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 512,
+      "northing": 1145212.636,
+      "easting": 3603158.685,
+      "elevation": 59.4077,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 513,
+      "northing": 1145218.756,
+      "easting": 3603174.411,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 514,
+      "northing": 1145225.283,
+      "easting": 3603184.827,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 515,
+      "northing": 1145228.954,
+      "easting": 3603196.876,
+      "elevation": 59.0865,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 516,
+      "northing": 1145209.916,
+      "easting": 3603193.0,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 517,
+      "northing": 1145207.469,
+      "easting": 3603174.619,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 518,
+      "northing": 1145185.49,
+      "easting": 3603214.916,
+      "elevation": 59.1733,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 519,
+      "northing": 1145180.678,
+      "easting": 3603194.496,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 520,
+      "northing": 1145177.928,
+      "easting": 3603171.094,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 521,
+      "northing": 1145171.97,
+      "easting": 3603149.528,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 522,
+      "northing": 1145163.721,
+      "easting": 3603133.468,
+      "elevation": 59.4228,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 523,
+      "northing": 1145149.743,
+      "easting": 3603119.702,
+      "elevation": 59.152,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 524,
+      "northing": 1145135.959,
+      "easting": 3603113.241,
+      "elevation": 58.7934,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 525,
+      "northing": 1145126.565,
+      "easting": 3603098.328,
+      "elevation": 58.5058,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 526,
+      "northing": 1145119.919,
+      "easting": 3603120.354,
+      "elevation": 58.3552,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 527,
+      "northing": 1145134.585,
+      "easting": 3603142.838,
+      "elevation": 58.5446,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 528,
+      "northing": 1145147.416,
+      "easting": 3603154.998,
+      "elevation": 58.5986,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 529,
+      "northing": 1145154.749,
+      "easting": 3603175.188,
+      "elevation": 58.943,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 530,
+      "northing": 1145161.434,
+      "easting": 3603200.689,
+      "elevation": 59.3205,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 531,
+      "northing": 1145164.413,
+      "easting": 3603222.714,
+      "elevation": 58.8173,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 532,
+      "northing": 1145124.704,
+      "easting": 3603215.378,
+      "elevation": 57.3134,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 533,
+      "northing": 1145121.954,
+      "easting": 3603183.258,
+      "elevation": 56.8715,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 534,
+      "northing": 1145111.414,
+      "easting": 3603168.345,
+      "elevation": 55.6649,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 535,
+      "northing": 1145090.562,
+      "easting": 3603158.021,
+      "elevation": 54.2918,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 536,
+      "northing": 1145085.453,
+      "easting": 3603135.507,
+      "elevation": 56.5355,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 537,
+      "northing": 1145087.057,
+      "easting": 3603107.975,
+      "elevation": 56.7296,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 538,
+      "northing": 1145093.473,
+      "easting": 3603080.214,
+      "elevation": 56.142,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 539,
+      "northing": 1145077.891,
+      "easting": 3603077.69,
+      "elevation": 55.091,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 540,
+      "northing": 1145071.934,
+      "easting": 3603106.599,
+      "elevation": 55.2811,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 541,
+      "northing": 1145071.246,
+      "easting": 3603138.031,
+      "elevation": 53.5748,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 542,
+      "northing": 1145078.35,
+      "easting": 3603158.221,
+      "elevation": 53.2772,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 543,
+      "northing": 1145115.014,
+      "easting": 3603228.687,
+      "elevation": 54.9744,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 544,
+      "northing": 1145058.505,
+      "easting": 3603147.521,
+      "elevation": 52.6181,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 545,
+      "northing": 1145047.879,
+      "easting": 3603122.572,
+      "elevation": 52.4726,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 546,
+      "northing": 1145055.94,
+      "easting": 3603078.911,
+      "elevation": 53.4662,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 547,
+      "northing": 1145042.016,
+      "easting": 3603059.832,
+      "elevation": 53.5475,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 548,
+      "northing": 1145026.259,
+      "easting": 3603054.329,
+      "elevation": 52.6856,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 549,
+      "northing": 1145031.755,
+      "easting": 3603087.716,
+      "elevation": 51.4527,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 550,
+      "northing": 1145031.023,
+      "easting": 3603116.702,
+      "elevation": 51.429,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 551,
+      "northing": 1145033.954,
+      "easting": 3603141.651,
+      "elevation": 51.8759,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 552,
+      "northing": 1145016.731,
+      "easting": 3603141.284,
+      "elevation": 51.4518,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 553,
+      "northing": 1145013.067,
+      "easting": 3603117.435,
+      "elevation": 50.7564,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 554,
+      "northing": 1145008.303,
+      "easting": 3603088.083,
+      "elevation": 49.9293,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 555,
+      "northing": 1145001.341,
+      "easting": 3603059.098,
+      "elevation": 49.9891,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 556,
+      "northing": 1144991.01,
+      "easting": 3603032.639,
+      "elevation": 51.0883,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 557,
+      "northing": 1144978.185,
+      "easting": 3603020.898,
+      "elevation": 50.9404,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 558,
+      "northing": 1145061.704,
+      "easting": 3603167.479,
+      "elevation": 55.3571,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 559,
+      "northing": 1145085.113,
+      "easting": 3603180.191,
+      "elevation": 55.9795,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 560,
+      "northing": 1145098.206,
+      "easting": 3603181.382,
+      "elevation": 56.7458,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 561,
+      "northing": 1145104.95,
+      "easting": 3603203.629,
+      "elevation": 56.7942,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 562,
+      "northing": 1145095.861,
+      "easting": 3603233.856,
+      "elevation": 55.2193,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 563,
+      "northing": 1145085.942,
+      "easting": 3603215.582,
+      "elevation": 55.4624,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 564,
+      "northing": 1145072.056,
+      "easting": 3603191.35,
+      "elevation": 55.0175,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 565,
+      "northing": 1145045.077,
+      "easting": 3603173.076,
+      "elevation": 54.2768,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 566,
+      "northing": 1145050.631,
+      "easting": 3603199.295,
+      "elevation": 53.7862,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 567,
+      "northing": 1145062.137,
+      "easting": 3603221.143,
+      "elevation": 53.9453,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 568,
+      "northing": 1145070.866,
+      "easting": 3603243.787,
+      "elevation": 53.5926,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 569,
+      "northing": 1145052.615,
+      "easting": 3603248.554,
+      "elevation": 52.5183,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 570,
+      "northing": 1145041.109,
+      "easting": 3603225.91,
+      "elevation": 52.6075,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 571,
+      "northing": 1145021.669,
+      "easting": 3603225.91,
+      "elevation": 51.6683,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 572,
+      "northing": 1145033.571,
+      "easting": 3603247.759,
+      "elevation": 51.7212,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 573,
+      "northing": 1145036.745,
+      "easting": 3603262.458,
+      "elevation": 51.1277,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 574,
+      "northing": 1145098.638,
+      "easting": 3603257.691,
+      "elevation": 54.063,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 575,
+      "northing": 1145082.372,
+      "easting": 3603268.814,
+      "elevation": 52.6138,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 576,
+      "northing": 1145071.263,
+      "easting": 3603279.539,
+      "elevation": 50.9116,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 577,
+      "northing": 1145062.126,
+      "easting": 3603290.571,
+      "elevation": 50.3314,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 578,
+      "northing": 1145052.336,
+      "easting": 3603299.981,
+      "elevation": 50.2792,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 579,
+      "northing": 1145028.842,
+      "easting": 3603289.787,
+      "elevation": 50.273,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 580,
+      "northing": 1145012.477,
+      "easting": 3603188.954,
+      "elevation": 52.196,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 581,
+      "northing": 1144999.709,
+      "easting": 3603175.058,
+      "elevation": 51.2281,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 582,
+      "northing": 1145000.819,
+      "easting": 3603198.959,
+      "elevation": 51.4848,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 583,
+      "northing": 1144990.827,
+      "easting": 3603216.468,
+      "elevation": 50.9431,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 584,
+      "northing": 1144983.61,
+      "easting": 3603198.959,
+      "elevation": 50.3226,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 585,
+      "northing": 1144979.724,
+      "easting": 3603181.728,
+      "elevation": 49.9292,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 586,
+      "northing": 1144975.005,
+      "easting": 3603156.159,
+      "elevation": 49.4161,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 587,
+      "northing": 1144961.865,
+      "easting": 3603155.601,
+      "elevation": 49.2674,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 588,
+      "northing": 1144963.808,
+      "easting": 3603188.395,
+      "elevation": 49.7901,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 589,
+      "northing": 1144971.858,
+      "easting": 3603204.793,
+      "elevation": 50.156,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 590,
+      "northing": 1145199.952,
+      "easting": 3603092.264,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 591,
+      "northing": 1145182.727,
+      "easting": 3603100.148,
+      "elevation": 59.436,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 592,
+      "northing": 1145162.549,
+      "easting": 3603089.553,
+      "elevation": 59.0715,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 593,
+      "northing": 1145161.81,
+      "easting": 3603075.51,
+      "elevation": 58.4859,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 594,
+      "northing": 1145182.235,
+      "easting": 3603072.06,
+      "elevation": 58.8615,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 595,
+      "northing": 1145203.397,
+      "easting": 3603052.596,
+      "elevation": 58.1773,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 596,
+      "northing": 1145215.382,
+      "easting": 3603034.948,
+      "elevation": 57.7615,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 597,
+      "northing": 1145217.35,
+      "easting": 3603019.187,
+      "elevation": 56.3511,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 598,
+      "northing": 1145214.595,
+      "easting": 3603000.275,
+      "elevation": 55.4272,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 599,
+      "northing": 1145204.364,
+      "easting": 3602999.487,
+      "elevation": 54.9902,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 600,
+      "northing": 1145193.739,
+      "easting": 3603021.945,
+      "elevation": 55.7717,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 601,
+      "northing": 1145185.868,
+      "easting": 3603043.222,
+      "elevation": 56.9636,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 602,
+      "northing": 1145175.243,
+      "easting": 3603057.406,
+      "elevation": 57.7326,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 603,
+      "northing": 1145160.29,
+      "easting": 3603059.771,
+      "elevation": 57.6325,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 604,
+      "northing": 1145148.484,
+      "easting": 3603054.254,
+      "elevation": 57.0407,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 605,
+      "northing": 1145141.401,
+      "easting": 3603038.888,
+      "elevation": 55.7878,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 606,
+      "northing": 1145164.619,
+      "easting": 3603031.402,
+      "elevation": 55.7452,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 607,
+      "northing": 1145182.327,
+      "easting": 3603006.973,
+      "elevation": 54.791,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 608,
+      "northing": 1145165.012,
+      "easting": 3603001.063,
+      "elevation": 54.5045,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 609,
+      "northing": 1145149.271,
+      "easting": 3602999.487,
+      "elevation": 54.3283,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 610,
+      "northing": 1145131.563,
+      "easting": 3602999.093,
+      "elevation": 54.0888,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 611,
+      "northing": 1145149.665,
+      "easting": 3603019.581,
+      "elevation": 54.7771,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 612,
+      "northing": 1145130.258,
+      "easting": 3603064.53,
+      "elevation": 57.9443,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 613,
+      "northing": 1145118.846,
+      "easting": 3603047.588,
+      "elevation": 55.9698,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 614,
+      "northing": 1145111.369,
+      "easting": 3603028.675,
+      "elevation": 55.033,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 615,
+      "northing": 1145103.499,
+      "easting": 3603000.7,
+      "elevation": 53.8654,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 616,
+      "northing": 1145095.235,
+      "easting": 3602993.608,
+      "elevation": 53.5027,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 617,
+      "northing": 1145075.559,
+      "easting": 3602993.214,
+      "elevation": 53.1927,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 618,
+      "northing": 1145083.429,
+      "easting": 3603014.885,
+      "elevation": 54.0839,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 619,
+      "northing": 1145091.3,
+      "easting": 3603035.373,
+      "elevation": 55.1515,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 620,
+      "northing": 1145064.541,
+      "easting": 3603030.645,
+      "elevation": 54.4283,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 621,
+      "northing": 1145059.425,
+      "easting": 3603005.822,
+      "elevation": 53.1658,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 622,
+      "northing": 1145046.045,
+      "easting": 3602997.154,
+      "elevation": 52.8465,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 623,
+      "northing": 1145037.782,
+      "easting": 3603016.461,
+      "elevation": 53.5864,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 624,
+      "northing": 1145254.997,
+      "easting": 3603020.28,
+      "elevation": 58.2831,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 625,
+      "northing": 1145273.984,
+      "easting": 3603026.576,
+      "elevation": 58.2539,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 626,
+      "northing": 1145271.928,
+      "easting": 3603015.073,
+      "elevation": 58.1822,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 627,
+      "northing": 1145272.17,
+      "easting": 3603003.448,
+      "elevation": 58.0862,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 628,
+      "northing": 1145287.576,
+      "easting": 3603013.492,
+      "elevation": 58.0099,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 629,
+      "northing": 1145318.21,
+      "easting": 3603008.045,
+      "elevation": 57.9382,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 630,
+      "northing": 1145314.703,
+      "easting": 3602997.268,
+      "elevation": 57.9449,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 631,
+      "northing": 1145308.393,
+      "easting": 3602987.324,
+      "elevation": 57.945,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 632,
+      "northing": 1145297.992,
+      "easting": 3602980.058,
+      "elevation": 58.0419,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 633,
+      "northing": 1145289.285,
+      "easting": 3602978.726,
+      "elevation": 58.0635,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 634,
+      "northing": 1145282.634,
+      "easting": 3603000.522,
+      "elevation": 57.9559,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 635,
+      "northing": 1145327.039,
+      "easting": 3602998.294,
+      "elevation": 57.9357,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 636,
+      "northing": 1145341.931,
+      "easting": 3602993.646,
+      "elevation": 57.9284,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 637,
+      "northing": 1145341.931,
+      "easting": 3602982.803,
+      "elevation": 57.9498,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 638,
+      "northing": 1145333.615,
+      "easting": 3602979.898,
+      "elevation": 58.0235,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 639,
+      "northing": 1145320.85,
+      "easting": 3602979.704,
+      "elevation": 58.049,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 640,
+      "northing": 1145327.039,
+      "easting": 3602989.967,
+      "elevation": 57.94,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 641,
+      "northing": 1145308.797,
+      "easting": 3602973.109,
+      "elevation": 58.1964,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 642,
+      "northing": 1145287.288,
+      "easting": 3602969.817,
+      "elevation": 58.2499,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 643,
+      "northing": 1145277.038,
+      "easting": 3602959.748,
+      "elevation": 58.0917,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 644,
+      "northing": 1145268.335,
+      "easting": 3602950.259,
+      "elevation": 58.0891,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 645,
+      "northing": 1145271.236,
+      "easting": 3602971.947,
+      "elevation": 57.5157,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 646,
+      "northing": 1145260.212,
+      "easting": 3602973.883,
+      "elevation": 56.901,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 647,
+      "northing": 1145331.302,
+      "easting": 3602943.697,
+      "elevation": 58.5864,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 648,
+      "northing": 1145319.901,
+      "easting": 3602938.415,
+      "elevation": 58.8105,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 649,
+      "northing": 1145303.563,
+      "easting": 3602929.394,
+      "elevation": 59.113,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 650,
+      "northing": 1145290.195,
+      "easting": 3602922.093,
+      "elevation": 59.2245,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 651,
+      "northing": 1145276.583,
+      "easting": 3602915.522,
+      "elevation": 59.1399,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 652,
+      "northing": 1145258.839,
+      "easting": 3602905.787,
+      "elevation": 57.8115,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 653,
+      "northing": 1145254.95,
+      "easting": 3602916.495,
+      "elevation": 57.9922,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 654,
+      "northing": 1145271.721,
+      "easting": 3602925.744,
+      "elevation": 58.7883,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 655,
+      "northing": 1145285.333,
+      "easting": 3602934.749,
+      "elevation": 58.8226,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 656,
+      "northing": 1145299.188,
+      "easting": 3602941.806,
+      "elevation": 58.8493,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 657,
+      "northing": 1145316.446,
+      "easting": 3602947.891,
+      "elevation": 58.7109,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 658,
+      "northing": 1145242.43,
+      "easting": 3602897.951,
+      "elevation": 56.9342,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 659,
+      "northing": 1145226.873,
+      "easting": 3602889.677,
+      "elevation": 56.2841,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 660,
+      "northing": 1145210.831,
+      "easting": 3602881.402,
+      "elevation": 56.0672,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 661,
+      "northing": 1145192.785,
+      "easting": 3602871.887,
+      "elevation": 55.9212,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 662,
+      "northing": 1145206.936,
+      "easting": 3602896.253,
+      "elevation": 55.7499,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 663,
+      "northing": 1145172.111,
+      "easting": 3602861.182,
+      "elevation": 56.074,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 664,
+      "northing": 1145156.486,
+      "easting": 3602853.124,
+      "elevation": 56.3743,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 665,
+      "northing": 1145162.563,
+      "easting": 3602869.187,
+      "elevation": 55.72,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 666,
+      "northing": 1145194.697,
+      "easting": 3602887.458,
+      "elevation": 55.6392,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 667,
+      "northing": 1145146.496,
+      "easting": 3602858.72,
+      "elevation": 56.3473,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 668,
+      "northing": 1145126.321,
+      "easting": 3602837.547,
+      "elevation": 56.4932,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 669,
+      "northing": 1145092.214,
+      "easting": 3602820.243,
+      "elevation": 55.8125,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 670,
+      "northing": 1145077.812,
+      "easting": 3602812.917,
+      "elevation": 55.8305,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 671,
+      "northing": 1145050.772,
+      "easting": 3602799.528,
+      "elevation": 56.5516,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 672,
+      "northing": 1145037.16,
+      "easting": 3602793.93,
+      "elevation": 56.9476,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 673,
+      "northing": 1145024.521,
+      "easting": 3602784.925,
+      "elevation": 57.4559,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 674,
+      "northing": 1145029.625,
+      "easting": 3602816.564,
+      "elevation": 55.5552,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 675,
+      "northing": 1145051.745,
+      "easting": 3602821.432,
+      "elevation": 54.9323,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 676,
+      "northing": 1145075.322,
+      "easting": 3602828.246,
+      "elevation": 55.2251,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 677,
+      "northing": 1145100.956,
+      "easting": 3602855.292,
+      "elevation": 55.8104,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 678,
+      "northing": 1145110.922,
+      "easting": 3602865.027,
+      "elevation": 56.4188,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 679,
+      "northing": 1145135.55,
+      "easting": 3602882.828,
+      "elevation": 55.9058,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 680,
+      "northing": 1145150.378,
+      "easting": 3602894.023,
+      "elevation": 54.8014,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 681,
+      "northing": 1145209.75,
+      "easting": 3602926.181,
+      "elevation": 55.8548,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 682,
+      "northing": 1145191.519,
+      "easting": 3602917.176,
+      "elevation": 55.3237,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 683,
+      "northing": 1145180.824,
+      "easting": 3602908.902,
+      "elevation": 55.0399,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 684,
+      "northing": 1145165.268,
+      "easting": 3602921.314,
+      "elevation": 54.6256,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 685,
+      "northing": 1145177.908,
+      "easting": 3602936.403,
+      "elevation": 54.7532,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 686,
+      "northing": 1145183.012,
+      "easting": 3602953.196,
+      "elevation": 54.6192,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 687,
+      "northing": 1145199.055,
+      "easting": 3602969.015,
+      "elevation": 54.69,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 688,
+      "northing": 1145166.483,
+      "easting": 3602960.01,
+      "elevation": 54.2784,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 689,
+      "northing": 1145154.816,
+      "easting": 3602942.974,
+      "elevation": 54.2928,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 690,
+      "northing": 1145144.85,
+      "easting": 3602958.55,
+      "elevation": 53.9731,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 691,
+      "northing": 1145127.718,
+      "easting": 3602902.357,
+      "elevation": 55.1817,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 692,
+      "northing": 1145118.707,
+      "easting": 3602918.761,
+      "elevation": 54.6161,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 693,
+      "northing": 1145105.327,
+      "easting": 3602940.907,
+      "elevation": 53.8776,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 694,
+      "northing": 1145096.862,
+      "easting": 3602950.476,
+      "elevation": 53.4234,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 695,
+      "northing": 1145073.652,
+      "easting": 3602940.36,
+      "elevation": 53.9197,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 696,
+      "northing": 1145097.681,
+      "easting": 3602929.15,
+      "elevation": 54.4871,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 697,
+      "northing": 1145113.246,
+      "easting": 3602907.552,
+      "elevation": 55.5856,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 698,
+      "northing": 1145094.344,
+      "easting": 3602883.467,
+      "elevation": 56.3906,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 699,
+      "northing": 1145076.049,
+      "easting": 3602895.497,
+      "elevation": 56.0438,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 700,
+      "northing": 1145061.304,
+      "easting": 3602904.792,
+      "elevation": 55.3204,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 701,
+      "northing": 1145063.215,
+      "easting": 3602879.092,
+      "elevation": 55.1687,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 702,
+      "northing": 1145082.056,
+      "easting": 3602873.624,
+      "elevation": 55.7442,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 703,
+      "northing": 1145039.622,
+      "easting": 3602882.378,
+      "elevation": 53.9577,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 704,
+      "northing": 1145033.615,
+      "easting": 3602915.186,
+      "elevation": 53.607,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 705,
+      "northing": 1145021.6,
+      "easting": 3602936.238,
+      "elevation": 52.9127,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 706,
+      "northing": 1145004.125,
+      "easting": 3602948.541,
+      "elevation": 52.5716,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 707,
+      "northing": 1145012.589,
+      "easting": 3602911.632,
+      "elevation": 52.816,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 708,
+      "northing": 1145021.873,
+      "easting": 3602888.119,
+      "elevation": 53.1027,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 709,
+      "northing": 1145069.943,
+      "easting": 3602844.614,
+      "elevation": 54.6463,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 710,
+      "northing": 1145045.914,
+      "easting": 3602842.974,
+      "elevation": 54.2221,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 711,
+      "northing": 1145029.257,
+      "easting": 3602842.7,
+      "elevation": 54.0562,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 712,
+      "northing": 1144978.265,
+      "easting": 3602929.094,
+      "elevation": 51.6411,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 713,
+      "northing": 1144968.449,
+      "easting": 3602954.587,
+      "elevation": 51.5927,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 714,
+      "northing": 1144958.939,
+      "easting": 3602988.372,
+      "elevation": 50.3189,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": 715,
+      "northing": 1144997.882,
+      "easting": 3603129.816,
+      "elevation": 50.7607,
+      "source": "topo_survey",
+      "type": "GS"
+    },
+    {
+      "id": "A",
+      "northing": 1145028.192,
+      "easting": 3602801.787,
+      "elevation": 56.744,
+      "source": "water_dist",
+      "description": "T-joint (Station A)",
+      "station": "A"
+    },
+    {
+      "id": "B",
+      "northing": 1145180.678,
+      "easting": 3603194.496,
+      "elevation": 59.436,
+      "source": "water_dist",
+      "description": "Reservoir (Station B) - 12m above ground",
+      "station": "B"
+    }
+  ]
+}

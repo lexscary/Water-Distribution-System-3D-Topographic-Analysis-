@@ -1,0 +1,15 @@
+=== PDF 1: Alignment for Water Distribution ===
+
+Department of Civil Engineering, York University LE/CIVL 2000
+3.00 Civil Engineering Design Project
+Design of a Water Distribution System to an Elevated Reservoir
+• Point 1: E1: 3602801.787, N1: 1145028.192, Z1: 56.744 m (T-joint)
+• Point 2: E2: 3603194.496, N2: 1145180.678, Z2: 59.436 m (Reservoir location -12m above Point
+2)
+
+=== PDF 2: Topo Survey ===
+
+1/31/26, 11:14 AM eclass.yorku.ca/pluginfile.php/7849656/mod_resource/content/1/Topo survey2.txt
+714 1144958.939 3602988.372 50.3189 GS
+715 1144997.882 3603129.816 50.7607 GS
+https://eclass.yorku.ca/pluginfile.php/7849656/mod_resource/content/1/Topo survey2.txt 12/12
