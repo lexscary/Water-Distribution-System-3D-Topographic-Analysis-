@@ -28,9 +28,9 @@ The application uses a hybrid approach:
    ```
 3. Run the app:
    ```bash
-   streamlit run app.py
+   streamlit run streamlit_app.py
    ```
 
 ## Deployment
 This repository is optimized for **Streamlit Community Cloud**.
-- **Main file path**: `app.py`
+- **Main file path**: `streamlit_app.py`
