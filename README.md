@@ -1,28 +1,36 @@
-# York University Water Distribution - 3D Analysis
+# Water Distribution System - 3D Topographic Analysis
 
-A Streamlit application for analyzing and visualizing the topographic alignment of a water distribution pipeline.
+Interactive 3D visualization of the York University water distribution system alignment.
+
+## Overview
+This application renders a high-fidelity **Three.js** 3D environment embedded within **Streamlit**. It visualizes the terrain, pipeline alignment, and water stations (A & B) using a custom mesh generation algorithm.
 
 ## Features
-- **3D Terrain Visualization**: Interactive surface plot of the survey area.
-- **Pipeline Routing**: Visual path from Station A (T-Joint) to Station B (Reservoir).
-- **Interactive Controls**: Adjust vertical exaggeration, color schemes, and layers.
-- **Statistics**: Real-time calculation of pipeline slope, distance, and elevation gain.
+- **3D Terrain**: Real-time rendering of 717 survey points.
+- **Pipeline Alignment**: Visualized path from T-Joint (Station A) to Reservoir (Station B).
+- **Interactive Controls**:
+    - **Vertical Exaggeration**: Adjust terrain height scale.
+    - **Lighting**: Dynamic sun rotation and intensity.
+    - **Camera Views**: Presets for Top, North, South, and Default.
+    - **Color Schemes**: Switch between Terrain, Rainbow, Grayscale, and Heatmap.
 
-## Installation
+## How it Works
+The application uses a hybrid approach:
+- **Frontend**: Standard HTML/CSS/JS (Three.js) for maximum visual quality.
+- **Backend/Host**: Python (Streamlit) serves the content, allowing for easy cloud deployment.
 
-1. Clone the repository
-2. Install dependencies:
+## Installation / Local Run
+
+1. Clone the repository.
+2. Install requirements:
    ```bash
    pip install -r requirements.txt
    ```
+3. Run the app:
+   ```bash
+   streamlit run app.py
+   ```
 
-## Usage
-
-Run the Streamlit application:
-```bash
-streamlit run streamlit_app.py
-```
-
-## Data Sources
-- Topographic Survey: 715 points (IDs 1-715)
-- Water Stations: A (T-Joint) & B (Reservoir)
+## Deployment
+This repository is optimized for **Streamlit Community Cloud**.
+- **Main file path**: `app.py`
